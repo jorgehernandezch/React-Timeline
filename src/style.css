@@ -136,6 +136,7 @@ a {
     font-weight: 200 !important;
     display: flex;
     justify-content: center;
+    margin-bottom: 15px;
 }
 
 .second{
