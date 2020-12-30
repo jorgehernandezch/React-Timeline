@@ -16,7 +16,7 @@ Si no lo tienes instalado lo pueden instalar siguiendo la documentación oficial
 https://www.npmjs.com/get-npm
 
 Verifica las versión de npm
-*Versión NPM - 7.0.10  
+* Versión NPM - 7.0.10  
 
 ### Instalación 🔧
 
